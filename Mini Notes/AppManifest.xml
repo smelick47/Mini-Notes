@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest"
+     Name="Mini Notes"
+     ProductID="{e1158bda-45eb-4763-b410-5ebf4dcb602f}"
+     Version="1.0.0.1"
+     SharePointMinVersion="15.0.0.0"
+>
+	<Properties>
+		<Title>MiniNotes</Title>
+		<StartPage>~appWebUrl/Pages/Default.aspx?{StandardTokens}</StartPage>
+		<SupportedLocales>
+			<SupportedLocale CultureName="en-us" />
+		</SupportedLocales>
+		<SupportedLanguages>en-us</SupportedLanguages>
+	</Properties>
+
+	<AppPrincipal>
+		<Internal />
+	</AppPrincipal>
+
+
+</App>

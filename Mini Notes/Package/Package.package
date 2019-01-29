@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="3765468b-f170-47d5-8ac3-1530b7dfaa71" solutionId="3765468b-f170-47d5-8ac3-1530b7dfaa71" resetWebServer="false" sharePointProductVersion="15.0" name="MiniNotes" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="79f5827a-620f-4db8-9fd1-55b1cad65e52" />
+  </features>
+</package>

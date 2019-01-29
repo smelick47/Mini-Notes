@@ -1,0 +1,12 @@
+-- Mini Notes 1.0v -- 
+
+This software is a intelectual property of a author.
+End users can use the the software freely in a  trial period.
+
+-- Features --
+
+ Adding Mini notes
+ Mini Notes can be categorized as Normal, Important and Urgent
+ Pin color and note color changed based on the category
+ Deleteing Mini notes  
+ App part for view own mini notes
